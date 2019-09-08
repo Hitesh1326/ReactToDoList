@@ -35,7 +35,7 @@ export default class Example extends React.Component {
           <Collapse isOpen={!this.state.collapsed} navbar>
             <Nav navbar>
               <NavItem>
-                <NavLink href="https://github.com/reactstrap/reactstrap">
+                <NavLink href="https://github.com/Hitesh1326/ReactToDoList">
                   GitHub
                 </NavLink>
               </NavItem>
